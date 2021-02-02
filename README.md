@@ -18,7 +18,7 @@
     <h4>Achievements</h4>
     
 			
-			<progress id="file" value="32" max="100"> 32% </progress>
+			<progress></progress>
 
 			
   
