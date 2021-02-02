@@ -16,7 +16,7 @@
    </div>
   <div>
     <h4>Achievements</h4>
-	  <progress></progress>
+	  <progress value="32" max="100">32%</progress>
     
 
 
