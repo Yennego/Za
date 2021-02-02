@@ -1,10 +1,10 @@
 <!Doctype html>
 <html>
   <head>
-    <title></title>
+    
   </head>
   <body>
- <h1>Favorite Foods</>
+ <h1>Favorite Foods</h1>
    <div>
     <ul>
     <li>Pearl</li>
@@ -14,7 +14,7 @@
     </ul>
    </div>
   <div>
-    <h2>Achievements</h2>
+    <h4>Achievements</h4>
   
   </body>
   <html>
