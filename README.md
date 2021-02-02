@@ -16,8 +16,11 @@
    </div>
   <div>
     <h4>Achievements</h4>
-	  <label for="file"> down</label
-	  <progress id="file" value="32" max="100">32%</progress>
+	  <div>
+				<label for="file">Downloading progress:</label>
+                <progress id="file" value="32" max="100"> 32% </progress>
+			</div>
+
     
 
 
