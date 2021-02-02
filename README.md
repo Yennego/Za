@@ -4,6 +4,7 @@
     
   </head>
   <body>
+  <a href="#">Home</a>
  <h1>Favorite Foods</h1>
    <div>
     <ul>
