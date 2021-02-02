@@ -17,8 +17,8 @@
   <div>
     <h4>Achievements</h4>
     
-			<label for="Progress">Progress in this course(100%)</label>
-			<progress id="progress" value="32" max="32%" </progress>
+			<label for="Progress">Progress in this course</label>
+			<progress id="progress" value="32" max="100"> 32% </progress>
 
 			
   
