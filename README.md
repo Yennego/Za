@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
   <head>
-    <title>Start Up</title>
+    <title></title>
   </head>
   <body>
  <h1>Favorite Foods</>
