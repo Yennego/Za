@@ -16,11 +16,11 @@
    </div>
   <div>
     <h4>Achievements</h4>
+	  <progress></progress>
     
-			
-			<progress></progress>
+
 
 			
   
   </body>
-  <html>
+  </html>
