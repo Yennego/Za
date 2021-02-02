@@ -4,7 +4,7 @@
     
   </head>
   <body>
-  <a href="#">Home</a>
+  <a href="#">one</a> <a href="#"></a> <a href="#">Two</a>
  <h1>Favorite Foods</h1>
    <div>
     <ul>
