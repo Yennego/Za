@@ -16,6 +16,11 @@
    </div>
   <div>
     <h4>Achievements</h4>
+    <div>
+				<label for="Progress">Progress in course (100%)</label>
+				<meter id="Progress" value="100" min="0" max="100">100 out of 100</meter>
+
+			</div>
   
   </body>
   <html>
